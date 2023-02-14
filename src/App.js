@@ -6,8 +6,7 @@ import Navbar from './components/common/navbar/Navbar';
 import {
   BrowserRouter as Router,
   Routes,
-  Route,
-  Link
+  Route
 } from 'react-router-dom';
 import Agency from './components/pages/About/our agency/Agency';
 import Footer from './components/common/footer/Footer';

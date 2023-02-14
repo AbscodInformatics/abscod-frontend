@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -18,7 +18,7 @@ const CaseStudies = () => {
         <div className="main-container">
           <div className="heading-content">
             <h2 className="heading">Our Case Studies</h2>
-            <a href="" className="btn">
+            <a href="/case-studies" className="btn">
               See all Project
             </a>
           </div>
